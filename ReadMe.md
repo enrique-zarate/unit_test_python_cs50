@@ -14,7 +14,7 @@ Son pruebas o tests, a funciones que hemos creado.
 
 ## Archivos y tipos de tests
 
-calculator.py --> Contiene las funciones de cálculo (raíz cuadrada, multiplicación, etc.).
+calculator.py --> Aplicación principal. Contiene las funciones de cálculo (raíz cuadrada, multiplicación, etc.).
 ### Tests vanilla
 
 test_calculator.py --> Contienen las funciones de test para las funciones de cálculo de las funciones de calculator.py.
